@@ -23,12 +23,12 @@ https://dice-game-harishmh.netlify.app/
 🖼️ Dice images change dynamically based on random roll
 
 
-📸 Screenshot
+## 📸 Screenshot
 Example:
 <img width="1859" height="946" alt="Screenshot 2025-07-16 171119" src="https://github.com/user-attachments/assets/a6e78bcf-fea7-42da-bc23-797cb6692e1a" />
 
 
-📖 How to Play
+## 📖 How to Play
 Open the game in your browser.
 
 Click the "Roll Dice" button (or refresh the page).
@@ -37,7 +37,7 @@ The dice are rolled randomly for each player.
 
 The player with the higher dice value wins!
 
-👨‍💻 Author
+## 👨‍💻 Author
 Harish MH
 
 📧 veera.mhharish@gmail.com
